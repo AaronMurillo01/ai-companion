@@ -1,5 +1,3 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 Project Features
 Welcome to my Next.js web application! Below, I outline the key features and technologies used in this project:
 
@@ -38,8 +36,11 @@ Layout and Structure
 Layout Reusability: The project showcases the reusability of layouts to maintain a consistent look and feel throughout the application.
 Folder Structure: I followed a well-organized folder structure in accordance with Next.js 13 App Router best practices.
 
+<img width="960" alt="Screenshot 2023-09-10 163636" src="https://github.com/AaronMurillo01/ai-companion/assets/113479474/02d370df-32a6-4d63-a9b0-73f3ec5b10ae">
 
 
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
